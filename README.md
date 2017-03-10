@@ -40,5 +40,7 @@
 * `yarn run`
 * `yarn run <script>`
 
-### Install a package globally
+### Globally install, upgrade or remove a package
 * `yarn global add <package>`
+* `yarn global upgrade <package>>@<version>`
+* `yarn global remove <package>`
